@@ -3,7 +3,7 @@
 #你要修改的地方从这里开始
 MYSQL_USER=root                 #mysql用户名
 MYSQL_PASS=123456               #mysql密码
-HOST=114.132.198.61
+HOST=127.0.0.1
 PORT=3306
 MAIL_TO=xxxxx@gmail.com         #数据库发送到的邮箱
 WEB_DATA_PARENT=/root/www/wwwroot
